@@ -1,6 +1,21 @@
-{"menus" : [{"name" : "Your List","url":"/yourlist","action":"y"}
-            ,{"name" : "Album","url":"/album","action":"y"}
-            ,{"name" : "Artist","url":"/artist","action":"y"},
-            {"name" : "songs","url":"/songs","action":"y"}
-            ]
+{
+	"menus": [{
+			"name": "Your List",
+			"url": "/yourlist",
+			"action": "y"
+		}, {
+			"name": "Album",
+			"url": "/album",
+			"action": "y"
+		}, {
+			"name": "Artist",
+			"url": "/artist",
+			"action": "y"
+		},
+		{
+			"name": "songs",
+			"url": "/songs",
+			"action": "y"
+		}
+	]
 }
